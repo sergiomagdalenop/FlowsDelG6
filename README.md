@@ -1,2 +1,2 @@
-# FlowsDelG6
-Flows creados del grup G6
+# FlowsG6
+Este repositorio contiene los flows del grupo 6
